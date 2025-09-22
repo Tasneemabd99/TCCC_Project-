@@ -298,7 +298,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: f81fcd9edaa84754869e9e9acb3aece4, type: 3}
+  m_audioClip: {fileID: 0}
   m_Resource: {fileID: 8300000, guid: f81fcd9edaa84754869e9e9acb3aece4, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 1
@@ -2043,7 +2043,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_OptimizeOnStart: 1
-  m_Canvas: {fileID: 7979916828988463974}
   m_BatchGroupParentTransform: {fileID: 234637812713154626}
   m_ButtonParentTransform: {fileID: 4863097412243294290}
   m_ImageParentTransform: {fileID: 2176062184860990979}
